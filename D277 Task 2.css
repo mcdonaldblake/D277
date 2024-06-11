@@ -78,6 +78,7 @@ img {
     width: 70%;
     margin: 20px;
     height: 70%;
+    padding-top: 40px;
 }
 .sub_title strong {
     font-weight: bold;
